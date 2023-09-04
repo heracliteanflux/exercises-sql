@@ -1,4 +1,5 @@
 .gitignore
 .ipynb_checkpoints
 !edxbc
-!edxbc/sql_2022/queries.sql
+!edxbc/D09_sql_2022/queries.sql
+!edxbc/F07_sql_2022/frauddb.sql
