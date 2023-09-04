@@ -1,3 +1,4 @@
+.gitignore
 .ipynb_checkpoints
-!sql_2022
-!sql_2022/*
+!edxbc
+!edxbc/sql_2022/queries.sql
