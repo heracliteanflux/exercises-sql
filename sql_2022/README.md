@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [`queries.sql`](#queries-sql)
-* [`quickdbd.txt`](#quickdbd-txt)
+* [`queries.sql`](#queriessql)
+* [`quickdbd.txt`](#quickdbdtxt)
 
 ## `queries.sql`
 
